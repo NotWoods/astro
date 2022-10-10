@@ -1,5 +1,11 @@
 # astro
 
+## 1.4.8
+
+### Patch Changes
+
+- [#5044](https://github.com/withastro/astro/pull/5044) [`44ea0c6d9`](https://github.com/withastro/astro/commit/44ea0c6d941a26a3c38fc6dc045a8a25215d154a) Thanks [@JuanM04](https://github.com/JuanM04)! - Upgrade Astro compiler to 0.27.1
+
 ## 1.4.7
 
 ### Patch Changes
